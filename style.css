@@ -42,14 +42,14 @@ html{
     position: relative;
     top: 5%;
     /* left: 5%; */
-    background-color: rgb(82, 173, 144);
+    background-color: rgb(112, 192, 168);
     text-align: center;
     
 }
 #box img{
   height: 50%;
   width: 100%;
-  border-radius: 10%;
+  /* border-radius: 10%; */
   position: absolute;
   top: 0%;
   left: 0%;
@@ -65,10 +65,10 @@ html{
   bottom: 10%;
   width: 100%;
   left: 0%;
-  color: bisque;
+  color: rgb(197, 152, 94);
   /* border-radius: 8%; */
   padding: 6%;
-  background-color: rgb(172, 44, 95);
+  background-color: rgb(112, 8, 72);
 }
 
   
