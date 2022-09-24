@@ -213,7 +213,7 @@ form input,textarea{
     }
   }
 
-  @media only screen and (max-width : 380px) 
+  @media only screen and (max-width : 360px) 
   {
     #skillsdiv
     {
@@ -234,10 +234,22 @@ form input,textarea{
  
     #ci 
     {
-      left:50%;
+      left:0%;
     }
     #project #box h1{
       font-size: x-small;
+    }.pos_contact{
+      width: 95%;
+      height: 60%;
+    }.pos_contact h3{
+      font-size: smaller;
+    }.pos_contact input{
+      font-size: xx-small;
+    }.pos_contact textarea{
+      font-size: xx-small;
+    }.pos_contact button{
+      padding: 5px;
+      width: 50px;
     }
 }
 
