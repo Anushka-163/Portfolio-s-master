@@ -117,7 +117,7 @@ html{
   position: absolute;
 } */
 #ci{
-  background-color: black;
+  /* background-color: black; */
   width: 335px;
   height: 335px;
   position: absolute;
@@ -126,7 +126,7 @@ html{
   left: 15%;
   border-radius: 50%;
 }#ci img{
-  width: 27vw;
+  width: 28vw;
   height: 27vw;
   border-radius: 50%;
   position: absolute;
