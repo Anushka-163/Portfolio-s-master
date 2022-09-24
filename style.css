@@ -236,7 +236,9 @@ form input,textarea{
     {
       left:50%;
     }
-
+    #project #box h1{
+      font-size: x-small;
+    }
 }
 
 @media only screen and (min-width : 380px) 
