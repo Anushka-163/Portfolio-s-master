@@ -238,9 +238,9 @@ form input,textarea{
       left:0%;
       display: none;
     }
-    /* #project #box h1{
+     #project #box h1{
       font-size: x-small;
-    }.pos_contact{
+    }/*.pos_contact{
       width: 95%;
       height: 60%;
     }.pos_contact h3{
