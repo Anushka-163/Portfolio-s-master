@@ -136,6 +136,7 @@ html,body{
   left: 20%;
   bottom: 0px;
   position: absolute;
+  /* display: none; */
   /* background-size: cover;
    */
    animation: animate 5s linear infinite reverse both;
@@ -149,7 +150,7 @@ html,body{
 }.pos_contact{
   /* padding-right: 0px; */
   position: relative;
-  left: 55%;
+  left: 50%;
   top: 0%;
 }
 form{
@@ -235,8 +236,9 @@ form input,textarea{
     #ci 
     {
       left:0%;
+      display: none;
     }
-    #project #box h1{
+    /* #project #box h1{
       font-size: x-small;
     }.pos_contact{
       width: 95%;
@@ -250,6 +252,11 @@ form input,textarea{
     }.pos_contact button{
       padding: 5px;
       width: 50px;
+    } */
+    .pos_contact{
+      position: relative;
+      left: -30%;
+      width: 290%;
     }
 }
 
