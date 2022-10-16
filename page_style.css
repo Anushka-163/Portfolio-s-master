@@ -1,0 +1,20 @@
+html,body{
+    overflow-x: hidden;
+    max-width: 100%;
+  }
+  
+  *{
+    margin: 0%;
+    padding: 0%;
+  }
+  html,body{
+    overflow-x: hidden;
+    max-width: 100%;
+    background-color: wheat;
+  }.box-center{
+    /* background-color: wheat; */
+    color: black;
+    position: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+  }
